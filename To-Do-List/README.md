@@ -25,9 +25,9 @@ The Simple To-Do List app allows users to add, remove, and mark tasks as complet
 - Mark tasks as completed.
 - Remove tasks from the list.
 
-## Demo
+<!-- ## Demo
 
-Check out the live demo of the application [here](link-to-live-demo).
+Check out the live demo of the application [here](link-to-live-demo). -->
 
 ## Getting Started
 
@@ -44,15 +44,15 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/ShashikantBharti/to-do-list.git
+   git clone https://github.com/ShashikantBharti/my_react_projects/tree/main/To-Do-List
    ```
 2. Navigate to the project directory:
    ```bash
-   cd simple-to-do-list
+   cd to-do-list
    ```
 3. Install the dependencies:
    ```bash
-   npm install
+   npm i
    ```
 
 ## Usage
@@ -60,5 +60,5 @@ Ensure you have the following installed:
 To run the app locally, use the following command:
 
 ```bash
-npm start
+npm run dev
 ```
