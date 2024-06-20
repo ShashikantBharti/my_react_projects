@@ -65,6 +65,7 @@ npm run dev
 
 ## Folder Structure
 
+```bash
 simple-to-do-list/
 ├── public/
 │ ├── index.html
@@ -80,6 +81,7 @@ simple-to-do-list/
 ├── .gitignore
 ├── package.json
 └── README.md
+```
 
 ## Components
 
