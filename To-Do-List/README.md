@@ -62,3 +62,27 @@ To run the app locally, use the following command:
 ```bash
 npm run dev
 ```
+
+## Folder Structure
+
+simple-to-do-list/
+├── public/
+│ ├── index.html
+│ └── ...
+├── src/
+│ ├── components/
+│ │ ├── AddTodo.jsx
+│ │ └── TodoItem.jsx
+│ ├── App.css
+│ ├── App.js
+│ ├── index.css
+│ └── index.js
+├── .gitignore
+├── package.json
+└── README.md
+
+## Components
+
+- App.jsx: Main component that holds the state and renders the TodoForm and TodoList components.
+- AddTodo.jsx: Contains the form for adding new tasks.
+- TodoItem.jsx: Represents a single to-do item with options to mark as completed or delete.
