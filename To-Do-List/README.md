@@ -75,9 +75,9 @@ simple-to-do-list/
 │ │ ├── AddTodo.jsx
 │ │ └── TodoItem.jsx
 │ ├── App.css
-│ ├── App.js
+│ ├── App.jsx
 │ ├── index.css
-│ └── index.js
+│ └── index.jsx
 ├── .gitignore
 ├── package.json
 └── README.md
