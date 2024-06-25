@@ -17,7 +17,7 @@ A simple counter application built with React.js. This app allows users to incre
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/ShashikantBharti/my_react_projects/tree/main/counter-app
    cd weather-app
    ```
 
