@@ -17,7 +17,7 @@ A simple weather app built with React.js that allows users to get the current we
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/ShashikantBharti/weather-app.git
+   git clone https://github.com/ShashikantBharti/my_react_projects/tree/main/weather-app
    cd weather-app
    ```
 
