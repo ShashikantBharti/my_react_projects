@@ -19,7 +19,7 @@ function App() {
     setTotalTodos(storedTodos.length);
     setCompleted(storedTodos.filter((item) => item.isComplete).length);
     setPriority(storedTodos.length);
-  }, []);
+  });
 
   const generateId = () => {
     let newId;
@@ -60,8 +60,6 @@ function App() {
     setOldValue('');
     setUpdate(false);
   };
-
-  
 
   return (
     <>
